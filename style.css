@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.card-header  {
+    background-color: #6050DC;
+    text-align: center;
+    line-height: 40px;
+    height: 40px;
+    font-size: 13.5px;
+    color: #ffffff;
+}
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #ffffff;
+    height: 40px;
+    line-height: 5px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    margin-left: 150px;
+    padding-left: 30px;
+
+    
+}
+ li {
+    float: right;
+
+}
+li a {
+
+    color: #6050DC;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 13px;
+    padding-right: 20px;
+    list-style: none;
+    line-height: 50px;
+    justify-content: center;
+}
+.block {
+    display: block;
+    border-radius: 10px;
+    background-color: #6050DC;
+    color: #ffffff;
+    padding: 14px 16px;
+    font-size: 12px;
+    cursor: pointer;
+    line-height: 10px;
+    border-color: #ffffff;
+    margin-right: 20px;
+
+}
+.card-body {
+background-color: #6050DC;
+justify-content: center;
+height: 500px;
+margin-bottom: 30px;
+
+}
+.card-title {
+    color: #ffffff;
+    font-size: 55px;
+    justify-content: center;
+    margin-left: 200px;
+    margin-bottom: 15px;
+    padding: 35px;
+    font-weight: 900;
+}
+p {
+    color: #ffffff;
+    justify-content: center;
+    margin-left: 233px;
+    padding: 5px;
+    line-height: 30px;
+    font-weight: 500;
+    font-size: 18px;
+}
+.card-location {
+    color: gray;
+    background-color: #ffffff;
+    height: 50px;
+    line-height: 48px;
+    padding: 5px;
+    width: 830px;
+    border-radius: 10px;
+    margin-left: 240px;
+    margin-top: 40px;
+    justify-content: center;
+    font-weight: 500;
+    font-size: 21px;
+     
+}
+button {
+    
+    border-radius: 10px;
+    background-color: #6050DC;
+    color: #ffffff;
+    padding: 13px 16px;
+    font-size: 16px;
+    cursor: pointer;
+    line-height: 16px;
+    border-color: #ffffff;
+    margin-left: 20px;
+    font-weight: 500;
+    padding-right: 20px;
+}
+.card-payment {
+    font-weight: 500;
+    color: #ffffff;
+    margin-top: 20px;
+    font-size: 19px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.logo {
+    float: left;
+    font-size: 60px;
+    color: #6050DC;
+    margin-left: 90px;
+    letter-spacing: 9px;
+}
+.logo-text {
+    font-size: xx-small;
+}
